@@ -11,7 +11,9 @@ To create this simple web, I utilized these previous lessons from TOP:
     - git clone (copy paste the ssh here), git status, git log, git add ., git add example.html, git commit -m "Add example message", git push
     - create repo from github with ssh
 - work with the html:
+    ```
     - <h1></h1>, <h3></h3>, <p></p> <em></em>, <ul></ul>, <ol></ol>, <li></li>,<img scr="test.png" alt="test">, <a href="madnessdir/recipe.html">Tonsofchili Recipe</a>, html boilerplate, and the ! shortcut in vscode to create boilerplate
+    ```
 - structuring the file by creating img folder/directory to store all images
 
 This is somewhat brutal but somehow along the way I had problems with the
